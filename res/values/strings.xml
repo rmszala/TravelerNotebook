@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Traveler Notebook</string>
+	<string name="point_activity">Point list</string>
+	<string name="transfers_activity">Possible transfers</string>
+	
+	<string name="add_new_trip">Add new trip</string>
+	<string name="exit">Exit</string>
+	
+	<string name="from">From:</string>
+	<string name="to">To:</string>
+	
+	<string name="save">Save</string>
+	<string name="cancel">Cancel</string>
+	
+	<string name="new_travel_title">Add new trip</string>
+	
+	<string name="new_point">New point</string>
+	<string name="back">Back</string>
+	
+	<string name="nameD_point_dialog">Name</string>
+	<string name="address_describe">Address</string>
+	<string name="city_describe">City</string>
+	<string name="country_describe">Country</string>
+	
+	<string name="show_on_map">Show on map</string>
+	<string name="show_tranfer">Show transfer</string>
+	<string name="new_tranfer">Add transfer</string>
+	<string name="delete">Delete</string>
+	<string name="show_points">Show points</string>
+	
+	<string name="delete_info">Deleted</string>
+	
+	<string name="time_describe">Time</string>
+	<string name="date_describe">Date</string>
+	<string name="note_describe">Notatki</string>
+	
+	<!-- Transfer type -->
+	<string name="airplane">Airplane</string>
+	<string name="ferry">Ferry</string>
+	<string name="train">Train</string>
+	<string name="metro">Metro</string>
+	<string name="tram">Tram</string>
+	<string name="bus">Bus</string>
+	<string name="taxi">Taxi</string>
+	<string name="bike">Bike</string>
+	<string name="walk">Walk</string>
+</resources>

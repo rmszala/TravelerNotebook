@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Traveler Notebook</string>
+	<string name="point_activity">Kohta luettelo</string>
+	<string name="transfers_activity">Mahdolliset siirrot</string>
+	
+	<string name="add_new_trip">Lisää uusi matka</string>
+	<string name="exit">Poistua</string>
+	
+	<string name="from">Alkaen:</string>
+	<string name="to">Vaille:</string>
+	
+	<string name="save">Tallena</string>
+	<string name="cancel">Peruuta</string>
+	
+	<string name="new_travel_title">Lisää uusi matka</string>
+	
+	<string name="new_point">Uusi piste</string>
+	<string name="back">Takaisin</string>
+	
+	<string name="nameD_point_dialog">Nimi</string>
+	<string name="address_describe">Osoite</string>
+	<string name="city_describe">Kaupunki</string>
+	<string name="country_describe">Maa</string>
+	
+	<string name="show_on_map">Näytä kartalla</string>
+	<string name="show_tranfer">Näytä siirron</string>
+	<string name="new_tranfer">Lisää siirtoa</string>
+	<string name="delete">Poista</string>
+	<string name="show_points">Näytä pistettä</string>
+	
+	<string name="delete_info">Poistettu</string>
+	
+	<string name="time_describe">Aika</string>
+	<string name="date_describe">Päivämäärä</string>
+	<string name="note_describe">Huomautuksia</string>
+	
+	<!-- Transfer type -->
+	<string name="airplane">Lentokone</string>
+	<string name="ferry">Lautta</string>
+	<string name="train">Juna</string>
+	<string name="metro">Metro</string>
+	<string name="tram">Raitiovaunu</string>
+	<string name="bus">Linja</string>
+	<string name="taxi">Taxi</string>
+	<string name="bike">Pyörä</string>
+	<string name="walk">Kävellä</string>
+
+</resources>

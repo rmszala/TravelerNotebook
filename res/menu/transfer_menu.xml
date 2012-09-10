@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item android:title="@string/new_tranfer" 
+		  android:icon="@android:drawable/ic_menu_add"
+		  android:id="@+id/new_transfer"/>
+
+	<item android:id="@+id/transfer_back" 
+	      android:icon="@android:drawable/ic_menu_directions"
+		  android:title="@string/back"/>
+</menu>

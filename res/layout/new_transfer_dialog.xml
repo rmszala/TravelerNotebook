@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content" android:layout_height="wrap_content">
+
+	<TableRow>
+		<TextView android:text="@string/note_describe"
+				  android:layout_width="wrap_content" 
+				  android:layout_height="wrap_content" />
+
+		<EditText android:id="@+id/note_transfer_dialog"
+				  android:layout_width="wrap_content" 
+				  android:layout_height="wrap_content" />
+	</TableRow>
+
+	<TableRow>
+		<TextView android:text="@string/time_describe"
+				  android:layout_width="wrap_content" 
+				  android:layout_height="wrap_content" />
+
+		<EditText android:id="@+id/time_transfer_dialog"
+				  android:layout_width="wrap_content" 
+				  android:layout_height="wrap_content" />
+	</TableRow>
+
+	<TableRow>
+		<TextView android:text="@string/date_describe"
+				  android:layout_width="wrap_content" 
+				  android:layout_height="wrap_content" />
+
+		<EditText android:id="@+id/date_transfer_dialog"
+				  android:layout_width="wrap_content" 
+				  android:layout_height="wrap_content" />
+	</TableRow>
+
+	<TableRow>
+		<TextView android:text="@string/address_describe"
+				  android:layout_width="wrap_content" 
+				  android:layout_height="wrap_content" />
+
+		<EditText android:id="@+id/address_transfer_dialog"
+				  android:layout_width="wrap_content" 
+				  android:layout_height="wrap_content" />
+	</TableRow>
+
+	<TableRow>
+		<TextView android:text="@string/city_describe"
+				  android:layout_width="wrap_content" 
+				  android:layout_height="wrap_content" />
+
+		<EditText android:id="@+id/city_transfer_dialog"
+				  android:layout_width="wrap_content" 
+				  android:layout_height="wrap_content" />
+	</TableRow>
+		<TableRow>
+		<TextView android:text="@string/country_describe"
+				  android:layout_width="wrap_content" 
+				  android:layout_height="wrap_content" />
+
+		<EditText android:id="@+id/country_transfer_dialog"
+				  android:layout_width="wrap_content" 
+				  android:layout_height="wrap_content" />
+	</TableRow>
+
+</TableLayout>

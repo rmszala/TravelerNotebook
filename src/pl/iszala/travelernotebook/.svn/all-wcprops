@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8/trunk/TravelerNotebook/src/pl/iszala/travelernotebook
+END
+DatabaseHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7/trunk/TravelerNotebook/src/pl/iszala/travelernotebook/DatabaseHelper.java
+END
+TravelerNotebook.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/7/trunk/TravelerNotebook/src/pl/iszala/travelernotebook/TravelerNotebook.java
+END
+Mapy.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/TravelerNotebook/src/pl/iszala/travelernotebook/Mapy.java
+END
+TravelPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8/trunk/TravelerNotebook/src/pl/iszala/travelernotebook/TravelPoint.java
+END
+Transfers.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8/trunk/TravelerNotebook/src/pl/iszala/travelernotebook/Transfers.java
+END
+MyOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8/trunk/TravelerNotebook/src/pl/iszala/travelernotebook/MyOverlay.java
+END

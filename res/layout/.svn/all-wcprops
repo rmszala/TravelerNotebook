@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8/trunk/TravelerNotebook/res/layout
+END
+trip_list_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8/trunk/TravelerNotebook/res/layout/trip_list_view.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/TravelerNotebook/res/layout/main.xml
+END
+transfers_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/TravelerNotebook/res/layout/transfers_layout.xml
+END
+new_travel_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8/trunk/TravelerNotebook/res/layout/new_travel_dialog.xml
+END
+points_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/TravelerNotebook/res/layout/points_layout.xml
+END
+map_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/TravelerNotebook/res/layout/map_layout.xml
+END
+new_transfer_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/TravelerNotebook/res/layout/new_transfer_dialog.xml
+END
+transfers_list_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8/trunk/TravelerNotebook/res/layout/transfers_list_view.xml
+END
+point_list_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8/trunk/TravelerNotebook/res/layout/point_list_view.xml
+END
+new_point_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/TravelerNotebook/res/layout/new_point_dialog.xml
+END

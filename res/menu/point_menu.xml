@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item android:title="@string/new_point" 
+		  android:icon="@android:drawable/ic_menu_add"
+		  android:id="@+id/point_new"/>
+
+	<item android:id="@+id/point_back" 
+	      android:icon="@android:drawable/ic_menu_directions"
+		  android:title="@string/back"/>
+</menu>

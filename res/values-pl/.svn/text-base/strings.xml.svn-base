@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Traveler Notebook</string>
+	<string name="point_activity">Lista punktow</string>
+	<string name="transfers_activity">Możliwe transfery</string>
+	
+	<string name="add_new_trip">Dodaj nowa podroz</string>
+	<string name="exit">Wyjscie</string>
+	
+	<string name="from">Z:</string>
+	<string name="to">Do:</string>
+	
+	<string name="save">Zapisz</string>
+	<string name="cancel">Anuluj</string>
+	
+	<string name="new_travel_title">Dodaj nowa podroz</string>
+	
+	<string name="new_point">Nowy punkt</string>
+	<string name="back">Wstecz</string>
+	
+	<string name="nameD_point_dialog">Nazwa</string>
+	<string name="address_describe">Adres</string>
+	<string name="city_describe">Miasto</string>
+	<string name="country_describe">Państwo</string>
+	
+	<string name="show_on_map">Pokaż na mapie</string>
+	<string name="show_tranfer">Pokaż transfer</string>
+	<string name="new_tranfer">Dodaj transfer</string>
+	<string name="delete">Usuń</string>
+	<string name="show_points">Pokaż punkty</string>
+	
+	<string name="delete_info">Usunięto</string>
+	
+	<string name="time_describe">Godziny</string>
+	<string name="date_describe">Data</string>
+	<string name="note_describe">Notatki</string>
+	
+	<!-- Transfer type -->
+	<string name="airplane">Samolot</string>
+	<string name="ferry">Prom</string>
+	<string name="train">Pociąg</string>
+	<string name="metro">Metro</string>
+	<string name="tram">Tramwaj</string>
+	<string name="bus">Autobus</string>
+	<string name="taxi">Taxi</string>
+	<string name="bike">Rower</string>
+	<string name="walk">Pieszo</string>
+</resources>
